@@ -325,30 +325,38 @@ plt.axis("off")
 
 #1. Original image displayed using OpenCV and Matplotlib.
 
+<img width="347" height="461" alt="image" src="https://github.com/user-attachments/assets/4beec4a9-e8bf-4d18-8f61-31339c9a4f93" />
 
 
 
 
 #2. Image with a line drawn from the top-left to the bottom-right.
 
+<img width="347" height="462" alt="image" src="https://github.com/user-attachments/assets/077c06c5-9a8a-405a-ac8a-24a9982ef1e3" />
 
 
 #3. Image with a circle at the center.
 
+<img width="346" height="460" alt="image" src="https://github.com/user-attachments/assets/290c509c-b6e3-48dd-ab8e-fc1c05bce874" />
 
 
 #4. Image with a rectangle around its boundary.
 
+<img width="345" height="457" alt="image" src="https://github.com/user-attachments/assets/d9a5ea90-bf7f-46b0-bacd-0015892b9a6f" />
 
 
 #5. Image with the text "OpenCV Drawing".
 
+<img width="345" height="457" alt="image" src="https://github.com/user-attachments/assets/c617b05a-ba23-4044-a4fa-5d385af1724a" />
 
 
 #6. HSV, grayscale, and YCrCb color space conversions.
 
+<img width="343" height="462" alt="image" src="https://github.com/user-attachments/assets/be41295a-9cc8-48bc-8d6f-91d5d6d53b91" />
 
+<img width="337" height="465" alt="image" src="https://github.com/user-attachments/assets/348a7dd4-aa2a-4f48-a30a-afac1717965f" />
 
+<img width="337" height="457" alt="image" src="https://github.com/user-attachments/assets/d8872675-087d-4192-b3fc-636af7e5f9ca" />
 
 
 
@@ -357,25 +365,31 @@ plt.axis("off")
 
 #7. Image converted from HSV back to RGB.
 
+<img width="342" height="462" alt="image" src="https://github.com/user-attachments/assets/9eedcc73-2917-4311-bbfd-2fd24a7e5294" />
 
 
 #8. Pixel value displayed and a white region added to the image.
 
+<img width="342" height="457" alt="image" src="https://github.com/user-attachments/assets/2fc7d305-e521-47fc-95e6-5ee07f16acae" />
 
 
 #9. Image resized to half its original dimensions.
 
+<img width="446" height="351" alt="image" src="https://github.com/user-attachments/assets/9b73ae91-704d-474b-b38f-88674c0d60f5" />
 
 
 #10. Cropped region of interest displayed.
 
+<img width="447" height="442" alt="image" src="https://github.com/user-attachments/assets/4c2c764a-d6f1-4de0-85f2-d89a08a3f55f" />
 
 
 #11. Horizontally flipped image displayed.
 
+<img width="342" height="460" alt="image" src="https://github.com/user-attachments/assets/2d97ae4d-10f3-40b3-8198-6e259053d031" />
 
 #12. Vertically flipped image displayed.
 
+<img width="346" height="460" alt="image" src="https://github.com/user-attachments/assets/fe669245-43ef-4345-935f-6cca7797bbf7" />
 
 
 ## RESULT
